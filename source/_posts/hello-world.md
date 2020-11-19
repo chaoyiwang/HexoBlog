@@ -2,10 +2,10 @@
 title: 主题介绍
 date: 2020-11-18 09:25:00
 author: Chaoyi
-img: https://nxcache.nexon.net/maplestory/landing/images/share_fb.jpg
+img: https://media.alienwarearena.com/media/3e5068f99056a3afaf111c714c9007c5.jpg
 top: true
 cover: true
-coverImg: https://nxcache.nexon.net/maplestory/landing/images/share_fb.jpg
+coverImg: https://media.alienwarearena.com/media/3e5068f99056a3afaf111c714c9007c5.jpg
 toc: false
 mathjax: false
 summary: 这是theme主题介绍自定义的文章摘要内容。
